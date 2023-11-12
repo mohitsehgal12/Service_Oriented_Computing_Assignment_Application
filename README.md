@@ -1,0 +1,2 @@
+# Service_Oriented_Computing_Assignment_Application
+Code Repository of Service Oriented Computing Assignment Application
